@@ -1,5 +1,5 @@
 import { defineConfig } from 'vite'
 
 export default defineConfig({
-  base: '/your-own-nasaland/',
+  base: '/Your-Own-Nasaland/',
 })
